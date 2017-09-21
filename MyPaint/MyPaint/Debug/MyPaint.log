@@ -1,0 +1,11 @@
+﻿  Paint.cpp
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(248): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(217): warning C4101: 'rect': unreferenced local variable
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(280): warning C4101: 'hdc': unreferenced local variable
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(281): warning C4101: 'ps': unreferenced local variable
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(282): warning C4101: 'rect': unreferenced local variable
+c:\users\mrpet\source\repos\mypaint\mypaint\paint.cpp(363): warning C4101: 'rect': unreferenced local variable
+  main.cpp
+  Generating Code...
+  MyPaint.vcxproj -> C:\Users\MrPet\source\repos\MyPaint\Debug\MyPaint.exe
+  MyPaint.vcxproj -> C:\Users\MrPet\source\repos\MyPaint\Debug\MyPaint.pdb (Partial PDB)
